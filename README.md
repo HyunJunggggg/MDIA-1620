@@ -1,9 +1,11 @@
 # MDIA-1620
 
-This is first class
-> "this is cool cheat sheet"
+Hyunjung (Rachel)
+
+![image](https://github.com/user-attachments/assets/72d37cdd-099c-4a9b-a60b-4f2e78432333)
 
 # 3-2-1's
-1. GUI  ,classmates .
-2. I think UCL is unclear for me 
-3. I feel kind of nervous for this course and I should seat front seat next time.  
+- GUI, classmates .
+- I think UCL is unclear for me 
+- I feel kind of nervous for this course and I should seat front seat next time.  
+
