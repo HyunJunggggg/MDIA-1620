@@ -15,7 +15,9 @@ week3
 
 1. 3things you learned
    strings "characters" , number - no quotation , boolean - only true and false
+   
 2. things I confusing
-   connecting the github abd terminal
+   connecting the github and terminal
+
 3. how I feel
-   I have some idea of Javascript. Also, I think it was clear to understand.
+    I have some idea of Javascript. Also, I think it was clear to understand.
