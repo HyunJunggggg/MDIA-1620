@@ -28,4 +28,7 @@ console.log(true+2); //  true =1 , false = 0  , type coercion
 
 
 
-
+//Lab four work 
+let horseNickname="Sugar"
+console.log(`My adorable horse name is ${horseName} and nickname is ${horseNickname}`);
+console.log(STABLE_MONTHLY_FEE*3)*.1;
