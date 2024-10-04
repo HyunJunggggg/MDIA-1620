@@ -1,6 +1,6 @@
 # MDIA-1620
 
-1. Hyunjung (Rachel)
+1. HyunJung (Rachel)
 
 2. My favourit sandwich
    ![image](https://github.com/user-attachments/assets/72d37cdd-099c-4a9b-a60b-4f2e78432333)
