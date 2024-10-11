@@ -1,6 +1,6 @@
-# MDIA-1620
+#MDIA-1620
 
-1. HyunJung (Rachel)
+1. Hyun Jung (Rachel)
 
 2. My favourit sandwich
    ![image](https://github.com/user-attachments/assets/72d37cdd-099c-4a9b-a60b-4f2e78432333)
@@ -14,7 +14,10 @@
 week3
 
 1. 3things you learned : strings "characters" , number - no quotation , boolean - only true and false
-   
 2. things I confusing : connecting the github and terminal
 
 3. how I feel : I have some idea of Javascript. Also, I think it was clear to understand.
+
+week6
+
+1. condition statement is still confusing when I add multiple conditions.
