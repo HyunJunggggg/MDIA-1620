@@ -1,5 +1,5 @@
 //lesson3 - code
-let horseName = "Awesomeguy";
+let horseName = "Awesome guy";
 console.log(horseName);
 horseName = "Sunny";
 console.log(horseName);
@@ -87,4 +87,51 @@ if (horseLocation === "outside" && horseNickname !== "orange") {
   console.log(`My adorable 🐴 ${horseName} is outside.`);
 } else {
   console.log(horseName + "inside");
+}
+
+// Lesson 6 code
+let word = "Rainbow";
+console.log(word.charAt(3));
+// indexes start at "0"
+
+// array
+let horseNames = ["strawberry", "Beans"];
+let horseAges = [horseAge, 2, 9];
+let horseLocations = [horseLocation, false, true];
+console.log(horseNames.length);
+horseNames.push("Lettuce");
+horseNames.push("mushroom");
+console.log(horseNames);
+console.log(horseNames[2]);
+console.log(horseAges[0]);
+console.log(horseLocations[1]);
+
+console.log(
+  `Welcome to my stables! There are ${horseNames.length} horses staying here!`
+);
+console.log(
+  "Welcome to my stables! There are " +
+    horseNames.length +
+    " horses staying here!"
+);
+
+if (horseNames[0] === "Sunny") {
+  console.log("Hi Sunny!");
+}
+
+if (horseNames.length < 6) {
+  console.log("These stables are unpopular");
+}
+
+console.log(horseAges[2] + horseAges[1]);
+
+//Lap 6
+console.log(
+  `My horse is ${horseName} , her nickname is ${horseNickname}, and ${horseAge} years old. Also ${horseName} has few friends ${horseNames}.`
+);
+
+if (horseLocation !== "outside") {
+  console.log(horseName + " inside ");
+} else {
+  console.log(`My lovely ${horseName} is outside.`);
 }
