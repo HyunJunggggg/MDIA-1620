@@ -127,7 +127,7 @@ console.log(horseAges[2] + horseAges[1]);
 
 //Lap 6
 console.log(
-  `My horse is ${horseName} , her nickname is ${horseNickname}, and ${horseAge} years old. Also ${horseName} has few friends ${horseNames}.`
+  `My horse is ${horseName} , her nickname is ${horseNickname}, and ${horseAge} years old. \n Also, ${horseName} has few friends ${horseNames}.`
 );
 
 if (horseLocation !== "outside") {
