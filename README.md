@@ -20,4 +20,8 @@ week3
 
 week6
 
-1. condition statement is still confusing when I add multiple conditions.
+1. Three confusing things
+
+- condition statement is still confusing when I add multiple conditions.
+- It is confusing when I add with conditional statement in the logical operators.
+- I still kind of confuse about array
